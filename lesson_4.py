@@ -162,7 +162,7 @@ def play_round(boss, heroes_list):
 
 
 def start_game():
-    boss = Boss(name='Minotavr', health=1000, damage=50)
+    boss = Boss(name='MAHARAGA', health=2000, damage=50)
 
     warrior_1 = Warrior(name='Asterix', health=290, damage=10)
     warrior_2 = Warrior(name='Obelix', health=280, damage=15)
